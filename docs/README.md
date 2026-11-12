@@ -23,3 +23,5 @@ Launch your browser and open:
 
 - English version: <http://localhost:8000>
 - Chinese version: <http://localhost:8000/zh-cn>
+
+- test
